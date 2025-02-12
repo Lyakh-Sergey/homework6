@@ -13,7 +13,7 @@ public class Main {
             System.out.println(i);
         }
         System.out.println("Задача 4");
-        for (int i = 10; i >= -10; i = i - 1) {
+        for (int i = 10; i >= -10; i --) {
             System.out.println(i);
         }
         System.out.println("Задача 5");
