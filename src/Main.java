@@ -5,7 +5,7 @@ public class Main {
             System.out.println(i);
         }
         System.out.println("Задача 2");
-        for (int i = 10; i > 0; i = i - 1) {
+        for (int i = 10; i > 0; i--) {
             System.out.println(i);
         }
         System.out.println("Задача 3");
